@@ -1,10 +1,10 @@
 ## Interface: 30300
 ## Title: YssBossLoot
-## Title-zhCN: [大脚][集]副本掉落
-## Title-zhTW: [大腳][集]副本掉落
+## Title-zhCN: YssBossLoot
+## Title-zhTW: YssBossLoot
 ## Notes: |cffbc8f8fDisplays Instance Maps.|r
-## Notes-zhCN: |cff00ff00YssBossLoot|r                                             |cffbc8f8f显示副本中的首领与小怪可能掉落的物品。|r
-## Notes-zhTW: |cff00ff00YssBossLoot|r                                             |cffbc8f8f顯示副本中的首領與小怪可能掉落的物品。|r
+## Notes-zhCN: |cff00ff00YssBossLoot|r                                             |cffbc8f8fDisplays Instance Maps.|r
+## Notes-zhTW: |cff00ff00YssBossLoot|r                                             |cffbc8f8fDisplays Instance Maps.|r
 ## X-Curse-Packaged-Version: v1.0.3
 ## X-Curse-Project-Name: YssBossLoot
 ## X-Curse-Project-ID: yssbossloot

@@ -36,7 +36,7 @@ local function OnTooltipSetItem(tooltip, ...)
 					boss = multiboss..": "..boss
 				end
 				if tonumber(difficulty) == 0 then
-					diffstr = YssBossLoot.BonusLocale['出处:']
+					diffstr = YssBossLoot.BonusLocale['Source:']
                 else
                     diffstr = diffstr and YssBossLoot.BonusLocale[diffstr] or diffstr
 				end

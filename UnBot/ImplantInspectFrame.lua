@@ -29,7 +29,7 @@ function UnBotCheckOffHand(dstFrame, targetName)
 						break;
 					end
 				end
-				--DisplayInfomation("Need up 副手 "..tostring(selectItem[5])..", LV "..tostring(UnitLevel(targetName)));
+				--DisplayInfomation("Need off-hand "..tostring(selectItem[5])..", LV "..tostring(UnitLevel(targetName)));
 			end
 		end
 	end

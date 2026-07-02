@@ -485,10 +485,10 @@ UnBotExecuteCommand = {
 [89] = "grind",
 };
 
---1 = 不需要选择目标
---2 = 需要选择友方目标
---3 = 需要选择敌对目标"
---4 = 自动以全队作为目标
+--1 = No target needed
+--2 = Requires friendly target
+--3 = Requires enemy target
+--4 = Automatically targets the whole group
 UnBotCommandType = {
 [0] = 0,
 [1] = 1,

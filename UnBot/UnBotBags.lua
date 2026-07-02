@@ -109,7 +109,7 @@ function UnBotShowButtonTips(newFrame, fromParent)
 					GameTooltip:SetHyperlink("item:"..itemID..":0:0:0:0:0:0:0");
 					if (fromParent.dataGroup[newFrame.dataIndex][7] ~= nil and fromParent.dataGroup[newFrame.dataIndex][7] > 1) then
 						GameTooltip:AddLine(" ",1,1,1,1);
-						GameTooltip:AddDoubleLine("Quantity owned：",tostring(fromParent.dataGroup[newFrame.dataIndex][7]),0,0.8,0.8,0.8,0.8,0); -- Needs correction
+						GameTooltip:AddDoubleLine("Quantity owned:",tostring(fromParent.dataGroup[newFrame.dataIndex][7]),0,0.8,0.8,0.8,0.8,0);
 					end
 				elseif (fromParent.bagsType == 2) then
 					local spellLink = GetSpellLink(itemID);
